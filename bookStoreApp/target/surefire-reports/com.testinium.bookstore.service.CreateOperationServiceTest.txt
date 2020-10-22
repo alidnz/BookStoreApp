@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.testinium.bookstore.service.CreateOperationServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in com.testinium.bookstore.service.CreateOperationServiceTest

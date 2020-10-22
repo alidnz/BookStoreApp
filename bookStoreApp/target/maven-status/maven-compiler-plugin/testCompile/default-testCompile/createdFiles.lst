@@ -1,0 +1,8 @@
+com\testinium\bookstore\controller\CreateOperationsControllerTest.class
+com\testinium\bookstore\controller\StorageOperationControllerTest.class
+com\testinium\bookstore\service\BookCategoryOrganizerServiceTest.class
+com\testinium\bookstore\controller\ListOperationsControllerTest.class
+com\testinium\bookstore\service\CreateOperationServiceTest.class
+com\testinium\bookstore\service\ListOperationServiceTest.class
+com\testinium\bookstore\service\StorageOperationServiceTest.class
+com\testinium\bookstore\controller\BookCategoryOrganizerControllerTest.class
