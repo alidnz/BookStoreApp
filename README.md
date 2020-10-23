@@ -1,5 +1,5 @@
 # BookStoreApp
-BookStoreApplication with REST Apis and Swagger example using H2 Database
+BookStoreApplication using SpringBoot with REST Apis and Swagger example using H2 Database
 
 Simply download and run BookStoreApplication. 
 
